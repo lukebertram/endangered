@@ -2,7 +2,7 @@
 
 #### An exercise in absolutely positioning and animating CSS elements, November 14, 2017
 
-#### By **Luke Bertram**
+#### By **Luke Bertram and Chris Knight Johnson**
 
 ## Description
 
@@ -28,4 +28,4 @@ For greatest ease of use, simply visit [this website](http://lukebertram.github.
 
 MIT License
 
-Copyright (c) 2017 **Luke Bertram**
+Copyright (c) 2017 **Luke Bertram and Chris Knight Johnson**
